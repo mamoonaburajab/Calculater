@@ -21,10 +21,12 @@ body {
 .screen {
   height: 4rem;
   margin-bottom: 4rem;
+  color: #e9f0f4;
+  font-size: 2.2rem;
 }
 
 .wrapper {
-  background: #f6f8f9;
+  background: #696969;
   width: 20rem;
   padding: 2rem;
   margin-top: 4rem;
